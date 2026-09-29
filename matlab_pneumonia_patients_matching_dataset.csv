@@ -1,0 +1,11 @@
+patient_id,disease,timestamp,age_years,spo2,heart_rate_bpm,respiratory_rate_bpm,systolic_bp_mmhg,diastolic_bp_mmhg,mean_bp_mmhg,prior_medication_orders,active_medications_at_timestamp,prior_unique_medications,data_quality_flag,risk_factor,risk_level
+1001,Pneumonia,2026-09-29 10:00:00,,86.9,116,31,131,76,94,,,,MATLAB_SIMULATED_VITALS,,
+1002,Pneumonia,2026-09-29 10:05:00,,87.3,121,24,95,56,69,,,,MATLAB_SIMULATED_VITALS,,
+1003,Pneumonia,2026-09-29 10:10:00,,81.5,97,22,112,67,82,,,,MATLAB_SIMULATED_VITALS,,
+1004,Pneumonia,2026-09-29 10:15:00,,88.2,106,29,93,56,68,,,,MATLAB_SIMULATED_VITALS,,
+1005,Pneumonia,2026-09-29 10:20:00,,83.9,106,27,89,56,67,,,,MATLAB_SIMULATED_VITALS,,
+1006,Pneumonia,2026-09-29 10:25:00,,82.0,123,25,121,74,90,,,,MATLAB_SIMULATED_VITALS,,
+1007,Pneumonia,2026-09-29 10:30:00,,88.0,106,30,111,71,84,,,,MATLAB_SIMULATED_VITALS,,
+1008,Pneumonia,2026-09-29 10:35:00,,87.4,113,25,101,65,77,,,,MATLAB_SIMULATED_VITALS,,
+1009,Pneumonia,2026-09-29 10:40:00,,88.1,115,30,118,79,92,,,,MATLAB_SIMULATED_VITALS,,
+1010,Pneumonia,2026-09-29 10:45:00,,83.4,125,31,129,82,98,,,,MATLAB_SIMULATED_VITALS,,
